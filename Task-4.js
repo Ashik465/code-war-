@@ -26,4 +26,5 @@ function findTwoNumbersWithSum(arr, target) {
   const inputArray = [1, 3, 6, 8, 11, 15];
 const targetValue = 9;
 const indices = findTwoNumbersWithSum(inputArray, targetValue);
-console.log(indices); // Output: [1, 2]
+console.log(indices); 
+// Output: [1, 2]
