@@ -14,6 +14,23 @@ function reverseString(inputString) {
     return reversedString;
   }
 
+
   const input = "hello world";
 const reversedOutput = reverseString(input);
 console.log(reversedOutput); 
+
+
+
+
+// reverse a world ******
+
+// const reverseString =(inputString)=> {
+
+//   const string = inputString.split(' ')
+
+//  const result = string.map(d=>{ 
+//     return d.split('').reverse().join('')
+//   })
+
+//   return result.join(' ')
+// }
