@@ -17,7 +17,7 @@ function reverseString(inputString) {
 
   const input = "hello world";
 const reversedOutput = reverseString(input);
-console.log(reversedOutput); 
+console.log(reversedOutput); // dlrow olleh
 
 
 
