@@ -38,4 +38,9 @@ Feel free to explore these awesome resources for web development. They offer a w
 1. If  you want to **make a folder** use command in terminal :  mkdir (forlder name)   ex: mkdir football
 2. if you want to **make a file** use command in terminal :  touch (file name with extension)  ex: touch football.jsx
 3. if you want to **create a file inside folder**  name :  ex: mkdir football ; cd football  touch football.jsx 
-4. if you want to **create multiple folder or filename** : ex: mkdir football cricket ex: touch football.jsx cricket.jsx   
+4. if you want to **create multiple folder or filename** : ex: mkdir football cricket ex: touch football.jsx cricket.jsx
+
+### Git hub tips 
+1. git checkout --track origin/40-button-component-with-cva………ay command ta dile j karor  git pr a jawa jay vs code a,,,,,,,
+2. git pull origin main ..….ay command dile onno j kono branch a thaka obosthai main er jinis pull kora jaba
+3. git commit -am 'commit message’ ……ay command dile git add . dite hoy na ..commit message diley hoy 
